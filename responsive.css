@@ -1,0 +1,798 @@
+/* media 1065px  1200px*/
+@media (min-width:1065px) and (max-width:1300px) {
+    .nav-link{
+        font-size: 16px;
+    }
+    .logo-text{
+        font-size: 20px;
+    }
+    .logo{
+        width: 30px;
+        height: 30px;
+    }
+    .singup button{
+        width: 80px;
+        height: 35px;
+        margin: 0 10px;
+        font-size: 18px;
+    }
+    .header-text h1{
+       font-size: 40px !important;
+    }
+    .header-text p{
+        font-size: 17px !important;
+     }
+     .date-item{
+         width: 33%;
+     }
+     .date-item h4{
+         font-size: 20px;
+     }
+     .date-item button{
+        width: 80px;
+        height: 40px;
+     }
+     .box{
+         width: 30% !important;
+        height: 300px;
+     }
+     .box h4{
+        font-size: 18px;
+     }
+     .box h5{
+        font-size: 16px;
+        margin-top: -8px;
+     }
+     .box p{
+        font-size: 12px;
+        margin-top: -5px;
+     }
+     .ccc h1{
+         font-size: 30px;
+     }
+     .box-effect{
+         height: 250px;
+     }
+     .box-effect img{
+         width: 40px;
+         height: 40px;
+     }
+     .box-effect b,p{
+       font-size: 12px !important;
+    }
+    .card-footer{
+        height: 80px;
+    }
+    .progress-bar{
+        height: 7px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1064px){
+    .singup{
+        margin-left: -25px !important;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+    .logo-text{
+        font-size: 18px;
+    }
+    .logo{
+        margin-left: 10px;
+        width: 23px;
+        height: 23px;
+    }
+    .singup button{
+        margin-top: 10px !important;
+        width: 70px;
+        height: 30px;
+        margin: 0 10px;
+        font-size: 15px;
+    }
+    .header-text h1{
+        font-size: 35px !important;
+     }
+     .header-text p{
+         font-size: 15px !important;
+      }
+      .date-item{
+          width: 33%;
+      }
+      .date-item h4{
+          font-size: 18px;
+      }
+      .date-item button{
+         width: 100px;
+         height: 40px;
+      }
+      .ul{
+          width: 50% !important;
+      }
+      .box{
+        width: 30% !important;
+        height: 280px;
+      }
+      .box h4{
+         font-size: 16px;
+      }
+      .box img{
+          transform: scale(0.98);
+      }
+      .box h5{
+         font-size: 16px;
+         margin-top: -8px;
+      }
+      .box p{
+         font-size: 12px;
+         margin-top: -5px;
+      }
+      .block-services h1{
+          font-size: 35px;
+      }
+      .block-services h5{
+        font-size: 20px !important;
+    }
+    .service{
+        width: 22%;
+    }
+      .ccc h1{
+          font-size: 35px;
+      }
+      .ccc p{
+        font-size: 12px !important;
+    }
+      .box-effect{
+          height: 230px;
+          width: 33% !important;
+      }
+      .box-effect img{
+          width: 30px;
+          height: 30px;
+      }
+      .box-effect b,p{
+        font-size: 11px !important;
+     }
+     .card-footer{
+         height: 70px;
+     }
+     .progress-bar{
+         height: 7px;
+     }
+     .users{
+         height: 45vh;
+     }
+     .get{
+         height: 50vh;
+     }
+     .get h1{
+         font-size: 30px;
+     }
+     .text-3d input{
+        height: 40px;
+        font-size: 14px;
+    }
+    .text-3d button{
+        right: 5px;
+        width: 100px;
+        height: 36px;
+        margin-top: 3px;
+        font-size: 14px;
+    }
+     .threeD{
+        transform: translateY(-420px);
+        height: 440px;
+        margin-left: -55px;
+    }
+    .reviev h4{
+        font-size: 20px;
+    }
+    .reviev-box-body h6{
+        font-size: 12px;
+    }
+    .image-fluid{
+        margin-top: 15px;
+        width: 35px;
+        height: 20px;
+    }
+    .service-div{
+        width: 40%;
+    }
+    .service-div h6{
+        font-size: 14px;
+    }
+    .text-col h6{
+        font-size: 14px !important;
+    }
+    .icon-box{
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .nav{
+        width: 100%;
+    }
+    .nav-link{
+        font-size: 14px;
+    }
+    .logo-text{
+        font-size: 18px;
+    }
+    .logo{
+        margin-left: 20px;
+        width: 23px;
+        height: 23px;
+    }
+    .singup{
+        margin-left: 0px !important;
+    }
+    .singup button{
+        width: 55px;
+        height: 30px;
+        margin: 0 10px;
+        font-size: 12px;
+    }
+    .header-text h1{
+        font-size: 35px !important;
+     }
+     .header-text p{
+         font-size: 15px !important;
+      }
+      .date-item{
+          width: 33%;
+      }
+      .date-item h4{
+          font-size: 18px;
+      }
+      .date-item button{
+         width: 80px;
+         height: 40px;
+      }
+      .box{
+          width: 30% !important;
+         height: 280px;
+      }
+      .box h4{
+         font-size: 16px;
+      }
+      .box img{
+          transform: scale(0.98);
+      }
+      .box h5{
+         font-size: 16px;
+         margin-top: -8px;
+      }
+      .box p{
+         font-size: 12px;
+         margin-top: -5px;
+      }
+      .ccc h1{
+          font-size: 30px;
+      }
+      .box-effect{
+          height: 250px !important;
+          width: 30%;
+      }
+      .box-effect img{
+          width: 30px;
+          height: 30px;
+      }
+      .box-effect b,p{
+        font-size: 11px !important;
+     }
+     .progress-bar{
+         height: 5px;
+     }
+     .card-footer{
+         height: 70px;
+     }
+     .users{
+         height: 45vh !important;
+     }
+     .aaa h2{
+        font-size: 25px;
+     }
+     .aaa b{
+        font-size: 16px;
+     }
+     .get{
+        height: 50vh;
+    }
+    .get h1{
+        font-size: 30px;
+    }
+    .text-3d input{
+       height: 40px;
+       font-size: 14px;
+   }
+   .text-3d button{
+       right: 5px;
+       width: 100px;
+       height: 36px;
+       margin-top: 3px;
+       font-size: 14px;
+   }
+    .threeD{
+       transform: translateY(-420px);
+       height: 440px;
+       margin-left: -55px;
+   }
+   .reviev h4{
+       font-size: 20px;
+   }
+   .reviev-box-body h6{
+       font-size: 12px;
+   }
+   .box-icons{
+    display: flex;
+    justify-content: center;
+   }
+   .image-fluid{
+       margin-top: 15px;
+       width: 30%;
+       height: 25px;
+   }
+   .service-div{
+       width: 40%;
+   }
+   .service-div h6{
+       font-size: 12px;
+   }
+   .text-col h6{
+       font-size: 12px !important;
+   }
+   .icon-box{
+       font-size: 15px;
+       width: 30px;
+       height: 30px;
+   }
+
+}
+
+@media (min-width:577px) and (max-width:768px){
+    .nav{
+        width: 100%;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .carousel-lg{
+        display: none;
+    }
+    .carousel-mobile{
+        display: block;
+    }
+    .carousel-lg-second{
+        display: none;
+    }
+    .carousel-mobile-second{
+        display: block;
+    }
+    .ul{
+        display: flex;
+        justify-content: center;
+    }
+    .www{
+        display: flex;
+        justify-content: center !important;
+        flex-direction: column;
+        margin-left: 25%;
+    }
+    .singup{
+        width: 240px;
+    }
+    .service{
+        width: 40%;
+    }
+    .header-text{
+        width: 50%;
+    }
+    .header-text h1{
+        font-size: 30px !important;
+     }
+     .header-text p{
+         font-size: 14px !important;
+      }
+      .date{
+          width: 80%;
+      }
+      .date-item{
+          width: 33%;
+      }
+      .date-item h4{
+          font-size: 18px;
+      }
+      .date-item button{
+         width: 80px;
+         height: 40px;
+      }
+      .box{
+         height: 400px;
+      }
+      .box h4{
+         font-size: 16px;
+      }
+      .box h5{
+         font-size: 16px;
+         margin-top: -8px;
+      }
+      .box p{
+         font-size: 12px;
+         margin-top: -5px;
+      }
+      .cards{
+          width: 30% !important;
+      }
+      .ccc h1{
+          font-size: 30px !important;
+      }
+      .box-effect{
+          height: 240px !important;
+          width: 65%;
+      }
+      .box-effect img{
+          width: 45px;
+          height: 45px;
+      }
+      .box-effect:hover{
+        transform: translateY(0px) ;
+        box-shadow: 4px 5px 25px 11px rgba(228, 234, 238, 0.158) !important;
+    }
+      .box-effect b,p{
+        font-size: 14px !important;
+     }
+     .progress-bar{
+         height: 7px;
+     }
+     .card-footer{
+         height: 70px;
+     }
+     .users{
+         height: 45vh !important;
+     }
+     .aaa h2{
+        font-size: 25px;
+     }
+     .aaa b{
+        font-size: 15px;
+     }
+     .block-user{
+         display: flex;
+         justify-content: center !important;
+         margin-bottom: 250px !important;
+     }
+     .users{
+         margin-top: 20px !important;
+         width: 45%;
+         height: 280px !important;
+         margin: 0 10px;
+     }
+     .second-user{
+        margin-top: 0;
+    }
+    .third-user{
+        margin-top: 80px !important;
+    }
+     .get{
+        height: 45vh;
+    }
+    .get h1{
+        font-size: 20px;
+    }
+    .text-3d{
+        width: 90%;
+    }
+    .text-3d input{
+       padding-left: 8px !important;
+       height: 30px;
+       font-size: 12px;
+   }
+   .text-3d button{
+       right: 5px;
+       width: 80px;
+       height: 26px;
+       margin-top: 2px;
+       font-size: 12px;
+   }
+    .threeD{
+       transform: translateY(-355px);
+       height: 370px;
+       width: 60%;
+       margin-left: -55px;
+   }
+   .reviev h4{
+       font-size: 16px;
+   }
+   .reviev-box-body h6{
+       font-size: 10px;
+   }
+   .box-icons{
+    display: flex;
+    justify-content: center;
+   }
+   .image-fluid{
+       margin-top: 15px;
+       width: 30%;
+       height: 25px;
+   }
+   .service-div{
+       width: 50%;
+   }
+   .service-div h6{
+       font-size: 12px;
+   }
+   .text-col{
+       width: 50%;
+   }
+   .text-col h6{
+       font-size: 12px !important;
+   }
+   .icon-box{
+       font-size: 12px;
+       width: 24px;
+       height: 24px;
+   }
+   .ddd{
+       margin-top: -100px !important;
+   }
+   .foooter{
+    margin-top: -100px !important;
+    height: 50px !important;
+    }
+}
+
+@media (max-width:576px){
+    
+    .nav{
+        width: 100%;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .navbar-brand h4{
+        font-size: 20px;
+    }
+    .navbar-toggler{
+        margin-right: -30px;
+    }
+    .carousel-lg{
+        display: none;
+    }
+    .carousel-mobile{
+        display: block;
+    }
+    .carousel-lg-second{
+        display: none;
+    }
+    .carousel-mobile-second{
+        display: block;
+    }
+    .ul{
+        display: flex;
+        justify-content: center;
+    }
+    .www{
+        display: flex;
+        justify-content: center !important;
+        flex-direction: column;
+        margin-left: 25%;
+    }
+    .singup{
+        width: 240px;
+        margin-left: 1% !important;
+    }
+    .service{
+        width: 40%;
+    }
+    .header-text{
+        width: 90%;
+        text-align: center;
+        margin-top: -50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .header-text h1{
+        font-size: 25px !important;
+        margin-right: 10px;
+     }
+     .header-text p{
+         font-size: 14px !important;
+      }
+      .date{
+          width: 90%;
+          margin: 0 -5%;
+          height: 70px;
+      }
+      .date-item{
+          width: 33%;
+          text-align: center;
+      }
+      .date-item h4{
+          font-size: 12px;
+      }
+      .date-item button{
+         width: 70px;
+         height: 20px;
+         font-size: 12px;
+         margin-top: -5px;
+      }
+      .carousel-pagination button{
+          width: 30px;
+          height: 30px;
+          font-size: 16px;
+      }
+      .carousel-text h3{
+          font-size: 22px;
+      }
+      .carousel-text p{
+        font-size: 12px !important;
+    }
+      .box{
+         height: 350px;
+         margin-top: 20px;
+      }
+      .box h4{
+         font-size: 14px !important;
+      }
+      .box h5{
+         font-size: 16px;
+         margin-top: -8px;
+      }
+      .box p{
+         font-size: 12px;
+         margin-top: -5px;
+      }
+      .block-services h5{
+          font-size: 16px !important;
+      }
+      .block-services h2{
+        font-size: 25px !important;
+    }
+    .carousel-mobile-second h1{
+        font-size: 25px !important;
+    }
+      .cards{
+          width: 30% !important;
+      }
+      .ccc h1{
+          font-size: 30px !important;
+      }
+      .box-effect{
+          width: 90%;
+          height: 300px !important;
+      }
+      .box-effect img{
+          width: 45px;
+          height: 45px;
+      }
+      .box-effect:hover{
+        transform: translateY(0px) ;
+        box-shadow: 4px 5px 25px 11px rgba(228, 234, 238, 0.158) !important;
+    }
+      .box-effect b,p{
+        font-size: 14px !important;
+     }
+     .card-footer{
+         height: 70px;
+     }
+     .aaa{
+        padding: 0;
+        margin-bottom: 10px;
+    }
+     .aaa h2{
+        font-size: 20px;
+     }
+     .aaa b{
+        font-size: 13px;
+     }
+     .block-user{
+         display: flex;
+         justify-content: center !important;
+         margin-bottom: 250px !important;
+     }
+     .users{
+         margin-top: 20px !important;
+         width: 100%;
+         height: 280px !important;
+         margin-bottom: 50px;
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: center;
+     }
+     .second-user{
+        margin-top: 0;
+    }
+     .get{
+         margin-top: 70% !important;
+        height: 45vh;
+    }
+    .got{
+        margin-top: -5%;
+    }
+    .git img{
+        display: none;
+    }
+    .get h1{
+        font-size: 25px;
+    }
+    .text-3d{
+        width: 100%;
+        text-align: center;
+    }
+    .text-3d input{
+       padding-left: 8px !important;
+       height: 46px;
+       font-size: 16px;
+   }
+   .text-3d button{
+       right: 5px;
+       width: 100px;
+       height: 40px;
+       margin-top: 2px;
+       font-size: 12px;
+   }
+   .footer{
+       margin-top: 400px;
+   }
+   .reviev{
+       height: auto;
+       display: flex;
+       flex-wrap: wrap;
+       margin-bottom: 100px;
+   }
+   .reviev h4{
+       font-size: 16px;
+       margin-left: -10px !important;
+       margin-right: 20px !important;
+   }
+   .reviev-box-big{
+       width: 30%;
+   }
+   .reviev-box{
+       width: 18%;
+   }
+   .reviev-box-body h6{
+       font-size: 10px;
+   }
+   .box-icons{
+    display: flex;
+    justify-content: center;
+   }
+   .image-fluid{
+       margin-top: 15px;
+       width: 25%;
+       height: 20px;
+   }
+   .logo-two{
+       width: 25px !important;
+       height: 25px !important;
+   }
+   .service-div{
+       width: 50%;
+   }
+   .service-div h6{
+       font-size: 12px;
+   }
+   .text-col{
+       width: 50%;
+   }
+   .text-col h6{
+       font-size: 12px !important;
+   }
+   .icon-box{
+       font-size: 12px;
+       width: 24px;
+       height: 24px;
+   }
+   .ddd{
+       margin-top: -100px !important;
+   }
+   .foooter{
+    margin-top: -100px !important;
+    }
+
+}
